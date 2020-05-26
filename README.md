@@ -47,13 +47,17 @@
 
 - Then click on <b> Next</b> again.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/Screenshot%20(302).png" width="500" height="350" />
+  <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/Screenshot%20(303).png" width="500" height="350" />
 </p><br>
 
 - Continue the process till the end and click on finish. Then installation process of R is completed.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/Screenshot%20(308).png" width="500" height="350" />
 </p><br>
+
+## Download R Studio
+- To download R studio go to the link [https://rstudio.com/products/rstudio/download/#download](https://rstudio.com/products/rstudio/download/#download) and click on download for windows.
+- An .exe file will be downloaded.
 
 # Basic syntax and data structures in R language
 - After setting up the R environment open command promt and type the following
