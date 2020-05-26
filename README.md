@@ -116,6 +116,55 @@ print(a)
 [2,] "green"  "yellow" "green" 
 [3,] "yellow" "green"  "yellow"  
 ```
+-	Factors
+```
+Create a vector.
+apple_colors <- c('green','green','yellow','red','red','red','green')
+
+# Create a factor object.
+factor_apple <- factor(apple_colors)
+
+# Print the factor.
+print(factor_apple)
+print(nlevels(factor_apple))
+```
+- When we execute the above code, it produces the following result −
+```
+[1] green  green  yellow red    red    red    green 
+Levels: green red yellow
+[1] 3
+```
+
+- Data Frames
+1. Data Frames are created using the data.frame() function.
+#### Create the data frame.
+```
+BMI <- 	data.frame(
+   gender = c("Male", "Male","Female"), 
+   height = c(152, 171.5, 165), 
+   weight = c(81,93, 78),
+   Age = c(42,38,26)
+)
+print(BMI)
+```
+- When we execute the above code, it produces the following result −
+```
+  gender height weight Age
+1   Male  152.0     81  42
+2   Male  171.5     93  38
+3  Female  165.0     78  26  
+```
+
+- Variable in R:
+1.  A valid variable name consists of letters, numbers and the dot or underline characters.
+ - Deleting Variable:
+1. Variables can be deleted by using the rm() function. Below we delete the variable var.3. On printing the value of the variable error is thrown.
+```
+Live Demo
+rm(var.3)
+print(var.3).
+```
+
 
 
 
