@@ -168,9 +168,9 @@ print(var.3).
 - Some of the operators can be :
 ```
 1. Arithmetic Operators: +, -, *, /, %%, %/%, ^
-1. Relational Operators: <, >, ==, <=, >=, !=
-1. Logical Operators: &, |, !, &&,  ||
-1. Assignment Operators: Left assignment : <- or == or <<- 
+2. Relational Operators: <, >, ==, <=, >=, !=
+3. Logical Operators: &, |, !, &&,  ||
+4. Assignment Operators: Left assignment : <- or == or <<- 
                         Right Assignment: -> or ->>
    ```
 
