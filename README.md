@@ -173,6 +173,37 @@ print(var.3).
 4. Assignment Operators: Left assignment : <- or == or <<- 
                         Right Assignment: -> or ->>
    ```
+## Decision Making:  
+if statement <br>
+if else statements <br>
+switch statements <br>
+
+#### Loops:
+```
+ Repeat loop 	
+       repeat { 
+   commands 
+   if(condition) {
+      break
+   }
+}
+```
+#### While loop:
+```
+ while (test_expression) {
+   statement
+}
+```
+#### For loop:
+```
+for (value in vector) {
+   statements
+}
+```
+
+
+
+
 
 
 
@@ -190,7 +221,8 @@ print(var.3).
 
 # Knowledge discovered
 
-# Rerences
+# Refrences
+[Reference Link](https://www.datamentor.io/r-programming/)
 
 # Contributors
 1. Alekya [Profile link]() 
