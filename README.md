@@ -3,8 +3,8 @@
 # Team Members
 1. Alekya [Profile link]() 
 2. Mahender Reddy Surkanti [profile link](https://github.com/Mahender1166)
-3. Manideep [Profile link](https://github.com/manideepchamala) 
-4. RethimaReddy Polam [Profile link]() 
+3. Manideep Chamala [Profile link](https://github.com/manideepchamala) 
+4. RethimaReddy Polam [Profile link](https://github.com/Rethima-Reddy) 
 
 # Introduction
 
@@ -253,4 +253,4 @@ for (value in vector) {
 1. Alekya [Profile link]() 
 2. Mahender Reddy Surkanti [profile link](https://github.com/Mahender1166)
 3. Manideep [Profile link](https://github.com/manideepchamala) 
-4. RethimaReddy Polam [Profile link]()
+4. RethimaReddy Polam [Profile link](https://github.com/Rethima-Reddy)
