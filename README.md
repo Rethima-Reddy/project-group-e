@@ -2,22 +2,22 @@
 
 # Team Members
 - Alekya [Profile link]() 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/alekya.jpeg" width="100" height="100" />
 </p><br>
 
 - Mahender Reddy Surkanti [profile link](https://github.com/Mahender1166)
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/mahi.jpeg" width="100" height="100" />
 </p><br>
 
 - Manideep Chamala [Profile link](https://github.com/manideepchamala) 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/mani.jpeg" width="100" height="100" />
 </p><br>
 
 - RethimaReddy Polam [Profile link](https://github.com/Rethima-Reddy) 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/Rethima.jpeg" width="100" height="100" />
 </p><br>
 
