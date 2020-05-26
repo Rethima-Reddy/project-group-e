@@ -243,6 +243,66 @@ for (value in vector) {
 
 
 # Data extraction from file (CSV files)
+For data extraction form any CSv file there is a function provided in R language.
+```
+read.csv()
+```
+There are two ways to read the CSV file.
+- From user local machine
+    User can check the current working directory my giving getwd() command and then paste the CSV file in that location.
+
+ ```
+ data <- read.csv("sampleInput.csv", TRUE, ",")
+ ```
+ - Direcly form internet without downloading
+     User can provide the CSV file URL 
+
+```
+data <- read.csv("https://people.sc.fsu.edu/~jburkardt/data/csv/homes.csv",TRUE,",")
+```
+ Explanation of the above command:
+ - data is m y variable and I will be a dataframe. 
+ - sampleInput.csv is my input file
+ - TRUE is a parameter which will be telling the IDE that my CSV files contains headers for the coulmns
+ - "," tells the system, that each tuple is separtaed my a comma. Generally values in CSV files are separated by comma hence the name- comma separated values.
+
+ Now the whole input text is in "data" variable.
+
+ Visualising the data extracted form the CSV files( any column of user choice) in the form of a histogram
+ ```
+hist(data$age, main="Ages of users", ylab="users", xlab="Ages")
+```
+Explanation of the above command:
+- hist represents histogram
+- $age: column user want to shown in histogram
+- main: Title for the histogram
+- ylab: name of y axis
+- xlab: name of x-axis
+
+![Histogram]("histogram.png")
+
+Visualising the data in the form of scatter plots
+```
+plot(data$age, data$income, ylab="Income", xlab="Age")
+```
+Explanation of the above command:
+- plot represents scatterplot
+- $age: column user want to shown in histogram
+- $income: column user want to shown in histogram
+- ylab: name of y axis
+- xlab: name of x-axis
+
+
+Visualising the data in the form of boxplot
+```
+boxplot(data$age)
+```
+Explanation of the above command:
+- boxplot represents scatterplot
+- $age: column user want to shown in histogram
+
+
+  
 
 # Knowledge discovered
 
@@ -250,7 +310,7 @@ for (value in vector) {
 [Reference Link](https://www.datamentor.io/r-programming/)
 
 # Contributors
-1. Alekya [Profile link]() 
+1. Alekya Pochampally[Profile link](https://github.com/AlekyaPochampally) 
 2. Mahender Reddy Surkanti [profile link](https://github.com/Mahender1166)
-3. Manideep [Profile link](https://github.com/manideepchamala) 
+3. Manideep Chamala[Profile link](https://github.com/manideepchamala) 
 4. RethimaReddy Polam [Profile link](https://github.com/Rethima-Reddy)
