@@ -52,7 +52,7 @@ Eg: colors <- c('red','green',"yellow")
 - print(colors)
 ``` 
 
-## Get the class of the vector.
+#### Get the class of the vector.
 ```
 print(class(colors))
 
@@ -60,7 +60,7 @@ o/p:
  [1] "red"    "green"  "yellow"
 [1] "character"
 ```
-## 	Lists
+### 	Lists
 - Create a list.
 ```
 list1 <- list(c(2,5,3),21.3,sin)
@@ -80,7 +80,7 @@ print(list1)
 [[3]]
 function (x)  .Primitive("sin")
 ```
-- Matrices
+### Matrices
 1.  Eg: A matrix is a two-dimensional rectangular data set. It can be created using a vector input to the matrix function.
 
 -  Create a matrix.
@@ -94,7 +94,7 @@ print(M)
 [2,] "c"  "b"  "a"
 ```
 
-- Arrays
+### Arrays
 1. Eg: # Create an array.
 ``` 
 a <- array(c('green','yellow'),dim = c(3,3,2))
@@ -116,7 +116,7 @@ print(a)
 [2,] "green"  "yellow" "green" 
 [3,] "yellow" "green"  "yellow"  
 ```
--	Factors
+### Factors
 ```
 Create a vector.
 apple_colors <- c('green','green','yellow','red','red','red','green')
@@ -135,7 +135,7 @@ Levels: green red yellow
 [1] 3
 ```
 
-- Data Frames
+### Data Frames
 1. Data Frames are created using the data.frame() function.
 #### Create the data frame.
 ```
@@ -155,7 +155,7 @@ print(BMI)
 3  Female  165.0     78  26  
 ```
 
-- Variable in R:
+### Variable in R:
 1.  A valid variable name consists of letters, numbers and the dot or underline characters.
  - Deleting Variable:
 1. Variables can be deleted by using the rm() function. Below we delete the variable var.3. On printing the value of the variable error is thrown.
@@ -164,6 +164,16 @@ Live Demo
 rm(var.3)
 print(var.3).
 ```
+## Operators:
+- Some of the operators can be :
+```
+- Arithmetic Operators: +, -, *, /, %%, %/%, ^
+- Relational Operators: <, >, ==, <=, >=, !=
+-	Logical Operators: &, |, !, &&,  ||
+-	Assignment Operators: Left assignment : <- or == or <<- 
+                        Right Assignment: -> or ->>
+   ```
+
 
 
 
