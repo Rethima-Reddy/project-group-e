@@ -19,7 +19,17 @@
 1. R runs on all platforms
 1. R is being used by the biggest tech giants
 
-## Basic syntax:
+# Downloading and installation steps
+
+## Download R 
+- To analyse data using R we have to download R and R studio. 
+- To download go to the link [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/) and click on <b> Download R 4.0.0 for Windows (84 megabytes, 32/64 bit)</b> present on top of the screen
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/Screenshot%20(207).png" width="850" height="400" />
+</p>
+- Then the file named <b> R-4.0.0-win.exe </b> will be downloaded.
+
+# Basic syntax and data structures in R language
 - After setting up the R environment open command promt and type the following
 ``` $ R
 This will launch R interpreter and you will get a prompt > where you can start typing your program as follows −
@@ -201,21 +211,6 @@ for (value in vector) {
 }
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-# Downloading procedure
-
-# Basic syntax and data structures in R language
 
 # Data extraction from file (CSV files)
 
