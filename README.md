@@ -60,6 +60,63 @@ o/p:
  [1] "red"    "green"  "yellow"
 [1] "character"
 ```
+## 	Lists
+- Create a list.
+```
+list1 <- list(c(2,5,3),21.3,sin)
+```
+
+-  Print the list.
+```
+print(list1)
+```
+- o/p:
+``` [[1]]
+[1] 2 5 3
+
+[[2]]
+[1] 21.3
+
+[[3]]
+function (x)  .Primitive("sin")
+```
+- Matrices
+1.  Eg: A matrix is a two-dimensional rectangular data set. It can be created using a vector input to the matrix function.
+
+-  Create a matrix.
+``` M = matrix( c('a','a','b','c','b','a'), nrow = 2, ncol = 3, byrow = TRUE)
+print(M)
+```
+- When we execute the above code, it produces the following result −
+```   
+[,1] [,2] [,3]
+[1,] "a"  "a"  "b" 
+[2,] "c"  "b"  "a"
+```
+
+- Arrays
+1. Eg: # Create an array.
+``` 
+a <- array(c('green','yellow'),dim = c(3,3,2))
+print(a)
+```
+- When we execute the above code, it produces the following result −
+``` 
+, , 1
+
+     [,1]     [,2]     [,3]    
+[1,] "green"  "yellow" "green" 
+[2,] "yellow" "green"  "yellow"
+[3,] "green"  "yellow" "green" 
+
+, , 2
+
+     [,1]     [,2]     [,3]    
+[1,] "yellow" "green"  "yellow"
+[2,] "green"  "yellow" "green" 
+[3,] "yellow" "green"  "yellow"  
+```
+
 
 
 
