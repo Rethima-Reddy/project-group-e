@@ -279,7 +279,7 @@ Explanation of the above command:
 - ylab: name of y axis
 - xlab: name of x-axis
 
-![Histogram]("https://github.com/Rethima-Reddy/project-group-e/blob/master/Images/histogram.png?raw=true")
+![Histogram]("https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/histogram.png")
 
 Visualising the data in the form of scatter plots
 ```
@@ -292,7 +292,7 @@ Explanation of the above command:
 - ylab: name of y axis
 - xlab: name of x-axis
 
-![Scatter plot]("https://github.com/Rethima-Reddy/project-group-e/blob/master/Images/scatterplot.png?raw=true")
+![Scatter plot]("https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/scatterplot.png")
 
 Visualising the data in the form of boxplot
 ```
@@ -302,7 +302,7 @@ Explanation of the above command:
 - boxplot represents scatterplot
 - $age: column user want to shown in histogram
 
-![box plot]("https://github.com/Rethima-Reddy/project-group-e/blob/master/Images/boxplot.png?raw=true")
+![box plot]("https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/boxplot.png")
 
   
 
