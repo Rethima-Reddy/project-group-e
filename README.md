@@ -279,7 +279,7 @@ Explanation of the above command:
 - ylab: name of y axis
 - xlab: name of x-axis
 
-![Histogram]("https://github.com/Rethima-Reddy/project-group-e/blob/master/Images/histogram.png")
+![Histogram]("https://github.com/Rethima-Reddy/project-group-e/blob/master/Images/histogram.png?raw=true")
 
 Visualising the data in the form of scatter plots
 ```
@@ -292,7 +292,7 @@ Explanation of the above command:
 - ylab: name of y axis
 - xlab: name of x-axis
 
-![Scatter plot]("https://github.com/Rethima-Reddy/project-group-e/blob/master/Images/scatterplot.png")
+![Scatter plot]("https://github.com/Rethima-Reddy/project-group-e/blob/master/Images/scatterplot.png?raw=true")
 
 Visualising the data in the form of boxplot
 ```
@@ -302,7 +302,7 @@ Explanation of the above command:
 - boxplot represents scatterplot
 - $age: column user want to shown in histogram
 
-![box plot]("https://github.com/Rethima-Reddy/project-group-e/blob/master/Images/boxplot.png")
+![box plot]("https://github.com/Rethima-Reddy/project-group-e/blob/master/Images/boxplot.png?raw=true")
 
   
 
@@ -312,7 +312,7 @@ Explanation of the above command:
 [Reference Link](https://www.datamentor.io/r-programming/)
 
 # Contributors
-1. Alekya Pochampally[Profile link](https://github.com/AlekyaPochampally) 
+1. Alekya Pochampally[Profile link](https://github.com/AlekyaPochampally)
 2. Mahender Reddy Surkanti [profile link](https://github.com/Mahender1166)
 3. Manideep Chamala[Profile link](https://github.com/manideepchamala) 
 4. RethimaReddy Polam [Profile link](https://github.com/Rethima-Reddy)
