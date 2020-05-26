@@ -29,7 +29,8 @@ This will launch R interpreter and you will get a prompt > where you can start t
 ``` 
 ## R Script File
 - Usually, you will do your programming by writing your programs in script files and then you execute those scripts at your command prompt with the help of R interpreter called Rscript. So let's start with writing following code in a text file called test.R as under −
- ``` # My first program in R Programming
+ ``` 
+ # My first program in R Programming
 myString <- "Hello, World!"
 
 print ( myString)
@@ -37,6 +38,30 @@ print ( myString)
 - Save the above code in a file test.R and execute it at Linux command prompt as given below. Even if you are using Windows or other system, syntax will remain same.
 ``` $ Rscript test.R  
 ```
+
+## Comments in R:
+- “#” is used for commenting. R dosent no support multi line comment.
+```
+# this is my comment.
+```
+
+## Data types in R:
+### Vectors
+``` 
+Eg: colors <- c('red','green',"yellow")
+- print(colors)
+``` 
+
+## Get the class of the vector.
+```
+print(class(colors))
+
+o/p:
+ [1] "red"    "green"  "yellow"
+[1] "character"
+```
+
+
 
 
 
