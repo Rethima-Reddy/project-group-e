@@ -1,5 +1,8 @@
 # R Studio
 
+- [demo](https://rethima-reddy.github.io/project-group-e/)
+- [source](https://github.com/Rethima-Reddy/project-group-e)
+
 # Team Members
 - Alekya [Profile link]() 
 <p>
@@ -448,3 +451,7 @@ Explanation of the above command:
 2. Mahender Reddy Surkanti [profile link](https://github.com/Mahender1166)
 3. Manideep Chamala[Profile link](https://github.com/manideepchamala) 
 4. RethimaReddy Polam [Profile link](https://github.com/Rethima-Reddy)
+# Repository
+- [demo](https://rethima-reddy.github.io/project-group-e/)
+- [source](https://github.com/Rethima-Reddy/project-group-e)
+
