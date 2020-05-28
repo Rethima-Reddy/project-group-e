@@ -313,6 +313,15 @@ The result of this is as shown. The ```main``` is the parameter to set a title f
   <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/pie.png" width="800" height="350" />
 </p><br>
 
+## Drawing a boxPlot from set of data present
+- We can draw a box plot using a predefined function called ```boxplot()```. Example is as follows:
+```
+boxplot(mtcars$mpg~mtcars$vs)
+```
+- This will plot the miles per hour for a car against its engine as shown.(img)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/box.png" width="800" height="350" />
+</p><br>
 
 # Data extraction from file (CSV files)
 For data extraction form any CSv file there is a function provided in R language.
