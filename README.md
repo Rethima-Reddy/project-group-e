@@ -3,6 +3,7 @@
 - [Source](https://github.com/Rethima-Reddy/project-group-e)
 - [Recording-Alekya](https://use.vg/buOCfh)
 - [Demo Video by Rethima](https://app.vidgrid.com/view/dyhyehsxk1fG)
+- [Manideep's Demo](https://use.vg/2prQWE)
 
 # Team Members
 - Alekya [Profile link](https://github.com/AlekyaPochampally) 
@@ -454,4 +455,5 @@ Explanation of the above command:
 - [Recorded Demo](https://use.vg/buOCfh)
 - [demo](https://rethima-reddy.github.io/project-group-e/)
 - [source](https://github.com/Rethima-Reddy/project-group-e)
+- [Manideep's Demo](https://use.vg/2prQWE)
 
