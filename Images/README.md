@@ -280,6 +280,31 @@ mostRepeated
 - Here the ```unique()``` function finds the unique number from the set of data and ```match()``` function will compare betweeen numbers and ```tabulate()``` will store all the resuts for each unique value from the list and ```max()``` function will picks the element with highest score and will return it. 
 - Now when we assign a variable to that function like ```mostRepeated``` from our example the value will be stored in it. Thus we can find the most repeated value from a set of data.
 
+
+## Calculating Median from set of data
+- To calculate median from a set of data we have function called ```median()``` that will return the median of the data set provided. For example:
+```
+x<- c(1,3,4,6,4,9)
+median(x)
+> 4.
+```
+## Calculaing Mode from the set of data
+- Their is no pre defined function to get mode from set of data. But we can create a function that can calculate the mode from the data set. The required program is as below:
+```
+x<- c(1,3,4,6,4,9,1,1,5)
+Mode <- function(x){
+  ux<- unique(x)
+  ux[which.max(tabulate(match(x,ux)))]
+}
+
+mostRepeated<-Mode(x)
+mostRepeated
+> 1
+```
+- Here the ```unique()``` function finds the unique number from the set of data and ```match()``` function will compare betweeen numbers and ```tabulate()``` will store all the resuts for each unique value from the list and ```max()``` function will picks the element with highest score and will return it. 
+- Now when we assign a variable to that function like ```mostRepeated``` from our example the value will be stored in it. Thus we can find the most repeated value from a set of data.
+
+
 # Data extraction from file (CSV files)
 For data extraction form any CSv file there is a function provided in R language.
 ```
