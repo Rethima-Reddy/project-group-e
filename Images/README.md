@@ -286,6 +286,15 @@ x<- c(1,3,4,6,4,9)
 sort(x)
  > 1 3 4 4 6 9
 ```
+## Drawing a histogram from set of data
+- We can pictorially represent the data we have. To present the data in the form of histogram, we can use a predefined function called ```hist()```. For example, to a draw a histogram to a dataset called mtcars which will be downloaded by default during the instalaion process of R Studio) 
+```
+hist(mtcars$gear, main= "Histogram for gear data in mtcars table")
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/histo.png" width="800" height="350" />
+</p><br>
+
 
 # Data extraction from file (CSV files)
 For data extraction form any CSv file there is a function provided in R language.
