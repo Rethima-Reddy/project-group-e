@@ -295,6 +295,24 @@ hist(mtcars$gear, main= "Histogram for gear data in mtcars table")
   <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/histo.png" width="800" height="350" />
 </p><br>
 
+- gear is a column in the mtcars table as you can see.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/data.png" width="800" height="350" />
+</p><br>
+
+## Drawing a pie chart from set of data
+- We can get a pie chart from the data set we have. We can use a predefined method called ```pie()``` to draw a pie chart. For example:
+```
+slices <- c(10,9,5,2,4)
+lablesArray <- c("Math", "Science", "Computer","Biology","history")
+pie(slices,lables = lableArray, main = "Pie Chart to represent interests of students")
+```
+The result of this is as shown. The ```main``` is the parameter to set a title for a diagram.
+(pie chart image)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/pie.png" width="800" height="350" />
+</p><br>
+
 
 # Data extraction from file (CSV files)
 For data extraction form any CSv file there is a function provided in R language.
