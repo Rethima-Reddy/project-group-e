@@ -2,9 +2,10 @@
 - [Demo](https://rethima-reddy.github.io/project-group-e/)
 - [Source](https://github.com/Rethima-Reddy/project-group-e)
 - [Recording-Alekya](https://use.vg/buOCfh)
+- [Demo Video by Rethima](https://app.vidgrid.com/view/dyhyehsxk1fG)
 
 # Team Members
-- Alekya [Profile link]() 
+- Alekya [Profile link](https://github.com/AlekyaPochampally) 
 <p>
   <img src="https://raw.githubusercontent.com/Rethima-Reddy/project-group-e/master/Images/alekya.jpeg" width="100" height="100" />
 </p><br>
