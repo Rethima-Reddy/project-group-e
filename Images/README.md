@@ -241,6 +241,22 @@ for (value in vector) {
 }
 ```
 
+# Calculations that can be performed on data sets:
+
+## Calulating Sum from set of data
+- To calculate sum of set of numbers we have a function called ```sum()``` that will calculate the sum of data we provided. For example:
+```
+x<- c(1,3,4,6,4,9)
+sum(x)
+> 27 
+```
+## Calculating Mean from set of data
+- To calculate mean from a set of data we have function called ```mean()``` that will return the mean of the data set provided. For example:
+```
+x<- c(1,3,4,6,4,9)
+mean(x)
+> 4.5 
+```
 
 # Data extraction from file (CSV files)
 For data extraction form any CSv file there is a function provided in R language.
