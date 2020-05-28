@@ -438,9 +438,11 @@ Explanation of the above command:
 
 # Knowledge discovered
 
-# Refrences
-[Reference Link](https://www.datamentor.io/r-programming/)
-
+# References
+- [Reference Link](https://www.datamentor.io/r-programming/)
+- [https://www.youtube.com/watch?v=mcYcjH-1giM](https://www.youtube.com/watch?v=mcYcjH-1giM)
+- [http://web.cs.ucla.edu/~gulzar/rstudio/basic-tutorial.html](http://web.cs.ucla.edu/~gulzar/rstudio/basic-tutorial.html)
+- [https://stackoverflow.com/](https://stackoverflow.com/) for bug fixes
 # Contributors
 1. Alekya Pochampally[Profile link](https://github.com/AlekyaPochampally)
 2. Mahender Reddy Surkanti [profile link](https://github.com/Mahender1166)
