@@ -115,10 +115,12 @@ print ( myString)
 - The above lines of code can be saved in a file with .R extension.R is a platform independent language that can be executed with similar commands on both windows and linux.
 - For Example, I have saved the file as demo.R.Below is the command to run te Script.
 
-``` $ Rscript demo.R  
+```
+$ Rscript demo.R  
 ```
 - The Output generated for the above code is
-``` [1] "Hello, World!"
+```
+[1] "Hello, World!"
 ```
 
 ## Comments in R:
@@ -129,19 +131,25 @@ print ( myString)
 
 ## Data types in R:
 ### Vectors
+- Ordered sequence of homogeneous data can be stored in a vector.
+- For Example,Below I have created a color vector with some colors names as character type.
 ``` 
-Eg: colors <- c('red','green',"yellow")
-- print(colors)
-``` 
+colors <- c('red','green','yellow')
 
-#### Get the class of the vector.
+``` 
+- To get the type of the Vector we can utilize class() method.Here I have defined a color vector which contains characters.
+
 ```
+print(colors)
 print(class(colors))
+```
 
-o/p:
- [1] "red"    "green"  "yellow"
+- Output for the above code
+```
+[1] "red"    "green"  "yellow"
 [1] "character"
 ```
+
 ### 	Lists
 - Create a list.
 ```
@@ -152,7 +160,7 @@ list1 <- list(c(2,5,3),21.3,sin)
 ```
 print(list1)
 ```
-- o/p:
+- Output to print hte list to console:
 ``` [[1]]
 [1] 2 5 3
 
@@ -162,6 +170,7 @@ print(list1)
 [[3]]
 function (x)  .Primitive("sin")
 ```
+
 ### Matrices
 1.  Eg: A matrix is a two-dimensional rectangular data set. It can be created using a vector input to the matrix function.
 
@@ -261,23 +270,17 @@ if statement <br>
 if else statements <br>
 switch statements <br>
 
-#### Loops:
-```
- Repeat loop 	
-       repeat { 
-   commands 
-   if(condition) {
-      break
-   }
-}
-```
+### Loops:
+
 #### While loop:
+- Syntax for a while loop is given below
 ```
  while (test_expression) {
    statement
 }
 ```
 #### For loop:
+- Syntax for a for loop is given below
 ```
 for (value in vector) {
    statements
