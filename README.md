@@ -444,7 +444,8 @@ Explanation of the above command:
 # Knowledge discovered
 
 # References
-- [Reference Link](https://www.datamentor.io/r-programming/)
+- [https://www.datamentor.io/r-programming/](https://www.datamentor.io/r-programming/)
+- [https://www.tutorialspoint.com/r/r_basic_syntax.htm](https://www.tutorialspoint.com/r/r_basic_syntax.htm)
 - [https://www.youtube.com/watch?v=mcYcjH-1giM](https://www.youtube.com/watch?v=mcYcjH-1giM)
 - [http://web.cs.ucla.edu/~gulzar/rstudio/basic-tutorial.html](http://web.cs.ucla.edu/~gulzar/rstudio/basic-tutorial.html)
 - [https://stackoverflow.com/](https://stackoverflow.com/) for bug fixes
