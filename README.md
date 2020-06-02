@@ -104,30 +104,27 @@
 
 - Congratualitions on successful installation..!!
 
-# Basic syntax and data structures in R language
-- After setting up the R environment open command promt and type the following
-``` $ R
-This will launch R interpreter and you will get a prompt > where you can start typing your program as follows −
-> myString <- "Hello, World!"
-> print ( myString)
-[1] "Hello, World!" 
-``` 
 ## R Script File
-- Usually, you will do your programming by writing your programs in script files and then you execute those scripts at your command prompt with the help of R interpreter called Rscript. So let's start with writing following code in a text file called test.R as under −
+- Whenever we want to learn a new programming language we will start with printing “Hello world”. In R Scripting language Below i have mentioned a small code snippet to print “Hello world”.−
  ``` 
- # My first program in R Programming
+ # Printing Hello World in R.
 myString <- "Hello, World!"
 
 print ( myString)
 ``` 
-- Save the above code in a file test.R and execute it at Linux command prompt as given below. Even if you are using Windows or other system, syntax will remain same.
-``` $ Rscript test.R  
+- The above lines of code can be saved in a file with .R extension.R is a platform independent language that can be executed with similar commands on both windows and linux.
+- For Example, I have saved the file as demo.R.Below is the command to run te Script.
+
+``` $ Rscript demo.R  
+```
+- The Output generated for the above code is
+``` [1] "Hello, World!"
 ```
 
 ## Comments in R:
-- “#” is used for commenting. R dosent no support multi line comment.
+- We can use "#" for commenting is the same as python.R does not support multi-line comments.
 ```
-# this is my comment.
+# Demo Comment
 ```
 
 ## Data types in R:
@@ -169,7 +166,8 @@ function (x)  .Primitive("sin")
 1.  Eg: A matrix is a two-dimensional rectangular data set. It can be created using a vector input to the matrix function.
 
 -  Create a matrix.
-``` M = matrix( c('a','a','b','c','b','a'), nrow = 2, ncol = 3, byrow = TRUE)
+```
+M = matrix( c('a','a','b','c','b','a'), nrow = 2, ncol = 3, byrow = TRUE)
 print(M)
 ```
 - When we execute the above code, it produces the following result −
